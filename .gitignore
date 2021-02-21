@@ -1,3 +1,7 @@
+# Platformio
+/.pio
+/.vscode
+# Arduino
 app/bin/
 app/pde.jar
 build/macosx/work/

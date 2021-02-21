@@ -5,6 +5,7 @@
 #include <WiFiManager.h>
 #include <HTTPClient.h>
 #include <Arduino_JSON.h>
+#include <Adafruit_I2CDevice.h>
 #include <DS3232RTC.h>
 #include <GxEPD2_BW.h>
 #include <Wire.h>
